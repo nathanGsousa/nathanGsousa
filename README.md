@@ -48,6 +48,8 @@ Atualmente trabalho com projetos envolvendo **Dilema do Prisioneiro Iterado**, *
 
 Projetos relacionados a simulações, modelos baseados em agentes e análise de estratégias em torneios.
 
+https://github.com/gECo-lab/ipd
+
 ```text
 Python | Simulações | Dilema do Prisioneiro Iterado | Sistemas Complexos
 
