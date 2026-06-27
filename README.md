@@ -1,4 +1,4 @@
-# Hello, eu sou Nathan Gomes 👋
+# Hello, eu sou Nathan Gomes de Sousa 👋
 
 > Seeking Hidden Order in...
 
@@ -17,15 +17,16 @@ Atualmente trabalho com projetos envolvendo **Dilema do Prisioneiro Iterado**, *
 
 ---
 
-## Tecnologias & Ferramentas
+## Algumas coisas que uso
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" title="LaTeX"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
-
 ---
 
 ## Áreas de interesse
@@ -39,16 +40,20 @@ Atualmente trabalho com projetos envolvendo **Dilema do Prisioneiro Iterado**, *
   
 ---
 
+
+
 ## Projetos em destaque
 
-### Economia Computacional
+### Dilema do Prisioneiro Iterado
 
-Projetos relacionados a simulações, modelos baseados em agentes e análise de estratégias em jogos econômicos.
+Projetos relacionados a simulações, modelos baseados em agentes e análise de estratégias em torneios.
 
 ```text
 Python | Simulações | Dilema do Prisioneiro Iterado | Sistemas Complexos
 
 ```
+
+<!-- 
 
 ### Análise de Dados Econômicos
 
@@ -57,6 +62,8 @@ Organização, tratamento e análise de bases econômicas, sociais e regionais.
 ```text
 R | Python | PostgreSQL | Power BI | SIDRA | SICONFI | SGS | DATASUS
 ```
+
+-->
 
 ## Atualmente estudando
 
