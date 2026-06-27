@@ -13,7 +13,7 @@ Atualmente trabalho com projetos envolvendo **Python**, **R**, **SQL**, **Postgr
 
 <div align="center">
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanpsousa7&show_icons=true&theme=dark&title_color=ffb000&icon_color=ff8c00&text_color=a6e3a1&bg_color=272727)
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanGsousa&show_icons=true&theme=dark&title_color=ffb000&icon_color=ff8c00&text_color=a6e3a1&bg_color=272727)
 
 </div>
 
@@ -23,7 +23,7 @@ Atualmente trabalho com projetos envolvendo **Python**, **R**, **SQL**, **Postgr
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpsousa7&layout=compact&theme=dark&title_color=ffb000&text_color=a6e3a1&bg_color=272727)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanGsousa&layout=compact&theme=dark&title_color=ffb000&text_color=a6e3a1&bg_color=272727)
 
 </div>
 
@@ -59,3 +59,14 @@ Projetos relacionados a simulações, modelos baseados em agentes e análise de 
 
 ```text
 Python | Simulações | Dilema do Prisioneiro Iterado | Sistemas Complexos
+
+```
+
+### Análise de Dados Econômicos
+
+Organização, tratamento e análise de bases econômicas, sociais e regionais.
+
+```text
+R | Python | PostgreSQL | Power BI | SIDRA | SICONFI | SGS | DATASUS
+
+```
