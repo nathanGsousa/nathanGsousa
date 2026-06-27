@@ -1,23 +1,11 @@
 # Hello, eu sou Nathan Gomes 👋
 
-> "Tentando entender economia, dados e sistemas complexos uma linha de código por vez."
+> Seeking Hidden Order in...
 
 Sou estudante de **Ciências Econômicas** e também tenho formação técnica na área de **Informática**.  
 Tenho interesse em **economia computacional**, **ciência de dados**, **simulações baseadas em agentes**, **séries temporais**, **painéis analíticos** e **automação de bases de dados**.
 
-Atualmente trabalho com projetos envolvendo **Python**, **R**, **SQL**, **PostgreSQL**, **Power BI** e análise de dados aplicados à economia e políticas públicas.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanGsousa&show_icons=true&theme=dark&title_color=ffb000&icon_color=ff8c00&text_color=a6e3a1&bg_color=272727)
-
-</div>
-
----
+Atualmente trabalho com projetos envolvendo **Dilema do Prisioneiro Iterado**, **Python**, **R**, **SQL**, **PostgreSQL**, **Power BI** e análise de dados aplicados à economia e políticas públicas.
 
 ## Linguagens mais usadas
 
@@ -68,5 +56,11 @@ Organização, tratamento e análise de bases econômicas, sociais e regionais.
 
 ```text
 R | Python | PostgreSQL | Power BI | SIDRA | SICONFI | SGS | DATASUS
-
 ```
+
+## Atualmente estudando
+
+  - Econometria aplicada
+  - Séries temporais
+  - Modelos baseados em agentes
+  - Sistemas complexos
